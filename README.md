@@ -1,3 +1,3 @@
 Work In Progress...
 
-A machine-learning model writen in Python for searching correlations between Ambiental Issues and the Meat Indistry
+A machine-learning model written in Python for searching correlations between Ambiental Issues and the Meat Indistry
